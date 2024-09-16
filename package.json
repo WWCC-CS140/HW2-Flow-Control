@@ -1,0 +1,18 @@
+{
+  "name": "hw02-flow-control",
+  "version": "1.0.0",
+  "description": "WWCC CS140 Homework 2 Flow Control",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WWCC-Ferraro/CS140-HW02"
+  },
+  "author": "Nick Ferraro <nicholas.ferraro@wwcc.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
